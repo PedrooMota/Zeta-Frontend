@@ -78,6 +78,8 @@ A <b>Zeta</b> é uma empresa de Tecnologia e Inovação que desenvolve um sistem
     <img src="https://user-images.githubusercontent.com/83295376/222481254-c21fdbc6-4b21-4bfc-83f4-f8126b23da89.png"/>
 </div>
 
+O site está completamente responsivo, tornando a experiência do usuário ainda mais versátil ao poder utilizar quaisquer telas (computadores, laptops, tablets e celulares).
+
 ## Características
 - [x] Design atrativo
 - [x] Composta por links
