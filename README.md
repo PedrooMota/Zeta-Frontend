@@ -116,7 +116,7 @@ A <b>Zeta</b> é uma empresa de Tecnologia e Inovação que desenvolve um sistem
 
 
 
-#### Depois de instalado, abra o terminal-> **CTRL + R e abra o CMD** <br>
+#### Depois de instalado, abra o terminal-> **WINDOWS + R e abra o CMD** <br>
 #### Logo, execute o seguinte comando para criar uma pasta chamada "myapp":
 
 ```sh
