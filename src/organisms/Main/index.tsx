@@ -39,7 +39,7 @@ function Main() {
         <div id='servicos'>
             <div className="container mb-5 text-transition-slider" id="gallery-container">
                 <div className="col-12">
-                    <h1>Conheça Nossas Soluções</h1>
+                    <h1>Conheça nossas soluções</h1>
                 </div>
                 <div className="row gx-4">
                     <div className="col-12 col-md-6">
