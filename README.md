@@ -156,7 +156,8 @@ cd Zeta-Seletiva-Frontend
 ```sh
 npm i
 ```
-<hr>
+<hr>  
+
 #### Para rodar o projeto localmente, utilize:
 
 ```sh
