@@ -26,9 +26,6 @@
 Foi construída uma Landing Page para um processo seletivo de estágio (Startup Zeta), onde possui uma interface amigável e com um design atrativo para os usuários.
 
 A <b>Zeta</b> é uma empresa de Tecnologia e Inovação que desenvolve um sistema embarcado inteligente e inovador, para gestão de operação e manutenção preventiva e preditiva de compressores de ar que funcionará com integração e serviços em nuvem e inteligência artificial.
-<p align="center">
-<img src="https://user-images.githubusercontent.com/83295376/221979524-fa4ca3a5-069b-4fc2-89d9-698d9c04a015.png"/>
-</p>
 
 
 # Aplicação
@@ -87,19 +84,23 @@ A <b>Zeta</b> é uma empresa de Tecnologia e Inovação que desenvolve um sistem
 - [VsCode](https://code.visualstudio.com/) - Ferramenta utilizada para a aplicação.
 
 - [React](https://pt-br.reactjs.org/) - Biblioteca utilizada para a criação da interface e suas propriedades.
+- [x] React-Router-Dom
+- [x] React-dom
 
 - [TypeScript](https://www.typescriptlang.org/) - Uma linguagem de código aberta que foi utilizada e suas propriedades.
+
+- [Styled-components](https://coodesh.com/blog/dicionario/o-que-e-styled-components/) -Uma biblioteca que possibilita escrever códigos CSS dentro do JavaScript/TypeScript.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="typescript" width="40" height="40"/><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="firebase" width="40" height="40"/>
+<hr>
 
-###
 
 # Acesso ao projeto
 
 **Você pode acessar a página por aqui->**  **<a target="_blank" href="https://zeta-seletiva-frontend-delta.vercel.app/">Acessar</a>**
-###
+
 
 **O projeto está hospedado na Vercel, plataforma primariamente voltada para sites estáticos e frameworks front-end. Também é a atual responsável pelo Next, que é um <a target="_blank" href="https://opensource.com/article/20/1/react-javascript-frameworks">framework open source React</a>.**
 
