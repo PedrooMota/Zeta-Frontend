@@ -89,13 +89,10 @@ A <b>Zeta</b> é uma empresa de Tecnologia e Inovação que desenvolve um sistem
 # Ferramentas utilizadas
 
 - [VsCode](https://code.visualstudio.com/) - Ferramenta utilizada para a aplicação.
-
 - [React](https://pt-br.reactjs.org/) - Biblioteca utilizada para a criação da interface e suas propriedades.
 - [x] React-Router-Dom
 - [x] React-dom
-
 - [TypeScript](https://www.typescriptlang.org/) - Uma linguagem de código aberta que foi utilizada e suas propriedades.
-
 - [Styled-components](https://coodesh.com/blog/dicionario/o-que-e-styled-components/) -Uma biblioteca que possibilita escrever códigos CSS dentro do JavaScript/TypeScript.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="typescript" width="40" height="40"/><br>
