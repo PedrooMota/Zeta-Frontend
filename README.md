@@ -78,7 +78,17 @@ A <b>Zeta</b> é uma empresa de Tecnologia e Inovação que desenvolve um sistem
     <img src="https://user-images.githubusercontent.com/83295376/222481254-c21fdbc6-4b21-4bfc-83f4-f8126b23da89.png"/>
 </div>
 
-O site está completamente responsivo, tornando a experiência do usuário ainda mais versátil ao poder utilizar quaisquer telas (computadores, laptops, tablets e celulares).
+##
+<br>
+
+### O site está completamente responsivo, tornando a experiência do usuário ainda mais versátil ao poder utilizar quaisquer telas (computadores, laptops, tablets ou celulares). 
+
+### Um breve exemplo:
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/83295376/222589780-848494d3-8a74-4c83-b5dd-7a0a2d821d74.png"/>
+</div>
+
 
 ## Características
 - [x] Design atrativo
@@ -86,7 +96,8 @@ O site está completamente responsivo, tornando a experiência do usuário ainda
 - [X] Bem estilizado
 - [x] Formulário de inscrição
 - [X] Objetividade na descrição
-<hr>
+
+##
 
 # Ferramentas utilizadas
 
@@ -171,7 +182,7 @@ Depois de rodar o projeto, basta acessar-> http://localhost:5173/
 
 # Autor
 
-| [<img src="https://user-images.githubusercontent.com/83295376/222512397-67011e82-9133-4b39-bb09-dccd5d394baf.png" width=115><br><sub>Pedro Henrique Mota</sub>](https://github.com/camilafernanda) | 
+| [<img src="https://user-images.githubusercontent.com/83295376/222590779-a5a2a44d-049a-4e81-9aec-709a5e7e8459.png" width=115><br><sub>Pedro Henrique Mota</sub>](https://www.linkedin.com/in/pedro-mota-294521232/) | 
 | :---: | 
 
 
