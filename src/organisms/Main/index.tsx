@@ -87,7 +87,7 @@ function Main() {
             <div className="container col-11 col-md-9 text-transition-slider" id="form-container">
                 <div className="row gx-5">
                     <div className="col-md-6">
-                        <h2>Gostaria que entrássemos em contato com você?</h2>
+                        <h2>Gostaria que entrássemos em contato?</h2>
                         <form>
                             <div className="form-floating mb-3">
                                 <input type="text" className="form-control"id='name' name='name' placeholder='Digite o seu nome' />
