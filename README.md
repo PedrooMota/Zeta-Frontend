@@ -169,9 +169,12 @@ yarn run dev
 Depois de rodar o projeto, basta acessar-> http://localhost:5173/
 <hr>
 
-### Autor
+# Autor
 
-Feito com ❤️ por <a target="_blank" href="https://www.linkedin.com/in/pedro-mota-294521232/">Pedro Henrique Mota!</a>
+| [<img src="https://user-images.githubusercontent.com/83295376/222512397-67011e82-9133-4b39-bb09-dccd5d394baf.png" width=115><br><sub>Pedro Henrique Mota</sub>](https://github.com/camilafernanda) | 
+| :---: | 
+
+
 
 <hr>
 
