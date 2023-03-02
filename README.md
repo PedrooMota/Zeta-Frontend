@@ -23,7 +23,7 @@
 </p>
 
 # Descrição do Projeto
-Foi construída uma Landing Page para um processo seletivo de estágio (Startup Zeta), onde possui uma interface amigável e com um design atrativo para os usuários.
+Foi construída uma Landing Page (página especifíca para conversão) para um processo seletivo de estágio (Startup Zeta), onde possui uma interface amigável e com um design atrativo para os usuários.
 
 A <b>Zeta</b> é uma empresa de Tecnologia e Inovação que desenvolve um sistema embarcado inteligente e inovador, para gestão de operação e manutenção preventiva e preditiva de compressores de ar que funcionará com integração e serviços em nuvem e inteligência artificial.
 
@@ -77,6 +77,13 @@ A <b>Zeta</b> é uma empresa de Tecnologia e Inovação que desenvolve um sistem
 <div align="center">
     <img src="https://user-images.githubusercontent.com/83295376/222481254-c21fdbc6-4b21-4bfc-83f4-f8126b23da89.png"/>
 </div>
+
+## Características
+- [x] Design atrativo
+- [x] Composta por links
+- [X] Bem estilizado
+- [x] Formulário de inscrição
+- [X] Objetividade na descrição
 <hr>
 
 # Ferramentas utilizadas
@@ -104,10 +111,7 @@ A <b>Zeta</b> é uma empresa de Tecnologia e Inovação que desenvolve um sistem
 
 **O projeto está hospedado na Vercel, plataforma primariamente voltada para sites estáticos e frameworks front-end. Também é a atual responsável pelo Next, que é um <a target="_blank" href="https://opensource.com/article/20/1/react-javascript-frameworks">framework open source React</a>.**
 
-### Características
-- [x] Design atrativo
-- [x] Fácil entendimento
-- [X] Bem estilizado
+
 
 # Passo a Passo
 
