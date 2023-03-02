@@ -29,7 +29,7 @@ const Footer = () =>{
                   <div className="col-12 col-md-4" id="news-container">
                     <h4>Fique por dentro das novidades</h4>
                     <p className="secondary-color">
-                      Inscreva-se para saber em primeira mão
+                      Inscreva-se para saber tudo em primeira mão:
                     </p>
                     <form>
                         <div className="mb-3">
