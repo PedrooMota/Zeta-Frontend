@@ -47,7 +47,7 @@ A <b>Zeta</b> é uma empresa de Tecnologia e Inovação que desenvolve um sistem
 </div>
 <hr>
 
-## Breve banner 
+### Breve banner 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/83295376/222477683-fd1f00d9-0c7a-4628-870b-b49cfa24e034.png"/>
     
@@ -62,21 +62,21 @@ A <b>Zeta</b> é uma empresa de Tecnologia e Inovação que desenvolve um sistem
 </div>
 <hr>
 
-## Footer(Rodapé)
+### Footer(Rodapé)
 <div align="center">
     <img src="https://user-images.githubusercontent.com/83295376/222478826-4837c67b-2293-4d92-9ba6-529eb5887125.png"/>
     
 </div>
 <hr>
 
-## Rota (quem-somos)
+### Rota (quem-somos)
 <div align="center">
     <img src="https://user-images.githubusercontent.com/83295376/222480928-50f725f8-493f-4876-b081-9c2879b493f3.png"/>
     
 </div>
 <hr>
 
-## Rota (missao-valores)
+### Rota (missao-valores)
 <div align="center">
     <img src="https://user-images.githubusercontent.com/83295376/222481254-c21fdbc6-4b21-4bfc-83f4-f8126b23da89.png"/>
 </div>
