@@ -146,7 +146,7 @@ cd myapp
 ```sh
 code .
 ```
-#### você tem a opção de continuar usando o CMD ou criar um terminal do Vscode. Vai de sua preferência.
+#### Você tem a opção de continuar usando o CMD ou criar um terminal do Vscode. Vai de sua preferência.
 
 <hr>
 
