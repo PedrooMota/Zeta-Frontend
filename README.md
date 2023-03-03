@@ -23,7 +23,7 @@
 </p>
 
 # Descrição do Projeto
-Foi construída uma Landing Page (página especifíca para conversão) para um processo seletivo de estágio (Startup Zeta), onde possui uma interface amigável e com um design atrativo para os usuários.
+Foi construído uma Landing Page (página especifíca para conversão) para um processo seletivo de estágio (Startup Zeta), onde possui uma interface amigável e com um design atrativo para os usuários.
 
 A <b>Zeta</b> é uma empresa de Tecnologia e Inovação que desenvolve um sistema embarcado inteligente e inovador, para gestão de operação e manutenção preventiva e preditiva de compressores de ar que funcionará com integração e serviços em nuvem e inteligência artificial.
 
@@ -78,24 +78,32 @@ A <b>Zeta</b> é uma empresa de Tecnologia e Inovação que desenvolve um sistem
     <img src="https://user-images.githubusercontent.com/83295376/222481254-c21fdbc6-4b21-4bfc-83f4-f8126b23da89.png"/>
 </div>
 
+##
+<br>
+
+### O site está completamente responsivo, tornando a experiência do usuário ainda mais versátil ao poder utilizar quaisquer telas (computadores, laptops, tablets ou celulares). 
+
+### Um breve exemplo:
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/83295376/222589780-848494d3-8a74-4c83-b5dd-7a0a2d821d74.png"/>
+</div>
+
+
 ## Características
 - [x] Design atrativo
 - [x] Composta por links
 - [X] Bem estilizado
 - [x] Formulário de inscrição
 - [X] Objetividade na descrição
-<hr>
+
+##
 
 # Ferramentas utilizadas
 
 - [VsCode](https://code.visualstudio.com/) - Ferramenta utilizada para a aplicação.
-
-- [React](https://pt-br.reactjs.org/) - Biblioteca utilizada para a criação da interface e suas propriedades.
-- [x] React-Router-Dom
-- [x] React-dom
-
-- [TypeScript](https://www.typescriptlang.org/) - Uma linguagem de código aberta que foi utilizada e suas propriedades.
-
+- [React](https://pt-br.reactjs.org/) - React é um framework JavaScript criado pelo Facebook (atual Meta) que é usado para criar interfaces de usuário (UI) em aplicativos web. Ele é popular por ser fácil de usar, altamente flexível e escalável, e é usado por muitas empresas de tecnologia, incluindo o Facebook, Instagram e Airbnb.
+- [TypeScript](https://www.typescriptlang.org/) - Linguagem de programação de código aberto desenvolvida pela Microsoft. É um superconjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem.
 - [Styled-components](https://coodesh.com/blog/dicionario/o-que-e-styled-components/) -Uma biblioteca que possibilita escrever códigos CSS dentro do JavaScript/TypeScript.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="typescript" width="40" height="40"/><br>
@@ -106,41 +114,44 @@ A <b>Zeta</b> é uma empresa de Tecnologia e Inovação que desenvolve um sistem
 
 # Acesso ao projeto
 
-**Você pode acessar a página por aqui->**  **<a target="_blank" href="https://zeta-seletiva-frontend-delta.vercel.app/">Acessar</a>**
+### Você pode acessar a página por aqui-> <a target="_blank" href="https://zeta-seletiva-frontend-delta.vercel.app/">Acessar</a>
 
 
 **O projeto está hospedado na Vercel, plataforma primariamente voltada para sites estáticos e frameworks front-end. Também é a atual responsável pelo Next, que é um <a target="_blank" href="https://opensource.com/article/20/1/react-javascript-frameworks">framework open source React</a>.**
 
+##
 
 
 # Passo a Passo
 
-#### **Instale a ferramenta Vscode e o Node para executarmos o NPM**  <br>**<a target="_blank" href="https://code.visualstudio.com/">Vscode</a>  <a target="_blank" href="https://opensource.com/article/20/1/react-javascript-frameworks">Node</a>**
+#### Instale a ferramenta Vscode ( Eu utilizei mas não é obrigatório! )<br><a target="_blank" href="https://code.visualstudio.com/">Vscode</a><br>
+#### Instale o node para executarmos o NPM <br> <a target="_blank" href="https://opensource.com/article/20/1/react-javascript-frameworks">Node</a>
 
 
-
-#### Depois de instalado, abra o terminal-> **CTRL + R e abra o CMD** <br>
-#### Logo, execute o seguinte comando para criar uma pasta chamada "myapp":
+#### Depois de instalados, abra o terminal-> **WINDOWS + R e abra o CMD** <br>
+#### Logo, execute o seguinte comando para criarmos uma pasta chamada "myapp":
 
 ```sh
 mkdir myapp
 ```
 <hr>
 
-#### E em seguida, execute nesta mesma ordem os comandos para entrar na pasta e abrir-la com o Vscode:
-
+#### E em seguida, você irá executar o comando para "entrarmos" dentro da pasta criada:
 ```sh
 cd myapp
 ```
 
+### Caso você queira abrir sua pasta dentro do Vscode, basta utilizar este comando (Não é obrigatório)
+
 ```sh
 code .
 ```
+#### Você tem a opção de continuar usando o CMD ou criar um terminal do Vscode. Vai de sua preferência.
+
 <hr>
 
-#### Com o Vscode aberto, você tem a opção de continuar usando o CMD ou criar um terminal do Vscode. Vai de sua preferência.
 
-#### Clone este repositório na sua pasta:
+### Clone este repositório na sua pasta utilizando o seguinte comando:
 
 ```sh
 git clone https://github.com/PedrooMota/Zeta-Seletiva-Frontend
@@ -157,21 +168,27 @@ cd Zeta-Seletiva-Frontend
 #### Agora, basta apenas instalar as dependências que estão no package.json:
 
 ```sh
-npm i
+npm install
 ```
-<hr>
-#### Para rodar o projeto localmente, utilize:
+<hr>  
+
+### Após a instalação, você estará próximo de rodar o projeto! 
+
+#### Para inicializar o projeto localmente, utilize:
 
 ```sh
 yarn run dev
 ```
 
-Depois de rodar o projeto, basta acessar-> http://localhost:5173/
-<hr>
+## Depois de rodar o projeto, basta acessar o link que foi disponibilizado em seu terminal!!
 
-### Autor
 
-Feito com ❤️ por <a target="_blank" href="https://www.linkedin.com/in/pedro-mota-294521232/">Pedro Henrique Mota!</a>
+# Autor
+
+| [<img target="_blank" src="https://user-images.githubusercontent.com/83295376/222590779-a5a2a44d-049a-4e81-9aec-709a5e7e8459.png" width=115><br><sub>Pedro Henrique Mota</sub>](https://www.linkedin.com/in/pedro-mota-294521232/) | 
+| :---: | 
+
+
 
 <hr>
 
