@@ -124,12 +124,12 @@ A <b>Zeta</b> é uma empresa de Tecnologia e Inovação que desenvolve um sistem
 
 # Passo a Passo
 
-#### Instale a ferramenta Vscode <br><a target="_blank" href="https://code.visualstudio.com/">Vscode</a><br>
+#### Instale a ferramenta Vscode ( Eu utilizei mas não é obrigatório! )<br><a target="_blank" href="https://code.visualstudio.com/">Vscode</a><br>
 #### Instale o node para executarmos o NPM <br> <a target="_blank" href="https://opensource.com/article/20/1/react-javascript-frameworks">Node</a>
 
 
 #### Depois de instalados, abra o terminal-> **WINDOWS + R e abra o CMD** <br>
-#### Logo, execute o seguinte comando para criar uma pasta chamada "myapp":
+#### Logo, execute o seguinte comando para criarmos uma pasta chamada "myapp":
 
 ```sh
 mkdir myapp
