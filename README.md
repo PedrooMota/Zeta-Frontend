@@ -128,7 +128,7 @@ A <b>Zeta</b> é uma empresa de Tecnologia e Inovação que desenvolve um sistem
 #### Instale o node para executarmos o NPM <br> <a target="_blank" href="https://opensource.com/article/20/1/react-javascript-frameworks">Node</a>
 
 
-#### Depois de instalado, abra o terminal-> **WINDOWS + R e abra o CMD** <br>
+#### Depois de instalados, abra o terminal-> **WINDOWS + R e abra o CMD** <br>
 #### Logo, execute o seguinte comando para criar uma pasta chamada "myapp":
 
 ```sh
@@ -136,20 +136,22 @@ mkdir myapp
 ```
 <hr>
 
-#### E em seguida, execute nesta mesma ordem os comandos para entrar na pasta e abrir-la com o Vscode:
-
+#### E em seguida, você irá executar o comando para "entrarmos" dentro da pasta criada:
 ```sh
 cd myapp
 ```
 
+### Caso você queira abrir sua pasta dentro do Vscode, basta utilizar este comando (Não é obrigatório)
+
 ```sh
 code .
 ```
+#### você tem a opção de continuar usando o CMD ou criar um terminal do Vscode. Vai de sua preferência.
+
 <hr>
 
-#### Com o Vscode aberto, você tem a opção de continuar usando o CMD ou criar um terminal do Vscode. Vai de sua preferência.
 
-#### Clone este repositório na sua pasta utilizando o seguinte comando:
+### Clone este repositório na sua pasta utilizando o seguinte comando:
 
 ```sh
 git clone https://github.com/PedrooMota/Zeta-Seletiva-Frontend
@@ -170,7 +172,9 @@ npm install
 ```
 <hr>  
 
-#### Para rodar o projeto localmente, utilize:
+### Após a instalação, você estará próximo de rodar o projeto! 
+
+#### Para inicializar o projeto localmente, utilize:
 
 ```sh
 yarn run dev
