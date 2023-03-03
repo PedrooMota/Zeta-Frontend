@@ -114,17 +114,18 @@ A <b>Zeta</b> é uma empresa de Tecnologia e Inovação que desenvolve um sistem
 
 # Acesso ao projeto
 
-**Você pode acessar a página por aqui->**  **<a target="_blank" href="https://zeta-seletiva-frontend-delta.vercel.app/">Acessar</a>**
+### Você pode acessar a página por aqui-> <a target="_blank" href="https://zeta-seletiva-frontend-delta.vercel.app/">Acessar</a>
 
 
 **O projeto está hospedado na Vercel, plataforma primariamente voltada para sites estáticos e frameworks front-end. Também é a atual responsável pelo Next, que é um <a target="_blank" href="https://opensource.com/article/20/1/react-javascript-frameworks">framework open source React</a>.**
 
+##
 
 
 # Passo a Passo
 
-#### **Instale a ferramenta Vscode e o Node para executarmos o NPM**  <br>**<a target="_blank" href="https://code.visualstudio.com/">Vscode</a>  <a target="_blank" href="https://opensource.com/article/20/1/react-javascript-frameworks">Node</a>**
-
+#### Instale a ferramenta Vscode <br><a target="_blank" href="https://code.visualstudio.com/">Vscode</a><br>
+#### Instale o node para executarmos o NPM <br> <a target="_blank" href="https://opensource.com/article/20/1/react-javascript-frameworks">Node</a>
 
 
 #### Depois de instalado, abra o terminal-> **WINDOWS + R e abra o CMD** <br>
@@ -148,7 +149,7 @@ code .
 
 #### Com o Vscode aberto, você tem a opção de continuar usando o CMD ou criar um terminal do Vscode. Vai de sua preferência.
 
-#### Clone este repositório na sua pasta:
+#### Clone este repositório na sua pasta utilizando o seguinte comando:
 
 ```sh
 git clone https://github.com/PedrooMota/Zeta-Seletiva-Frontend
@@ -165,7 +166,7 @@ cd Zeta-Seletiva-Frontend
 #### Agora, basta apenas instalar as dependências que estão no package.json:
 
 ```sh
-npm i
+npm install
 ```
 <hr>  
 
@@ -175,8 +176,8 @@ npm i
 yarn run dev
 ```
 
-Depois de rodar o projeto, basta acessar-> http://localhost:5173/
-<hr>
+## Depois de rodar o projeto, basta acessar o link que ele disponibilizou em seu termminal!!
+
 
 # Autor
 
