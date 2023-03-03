@@ -185,7 +185,7 @@ yarn run dev
 
 # Autor
 
-| [<img src="https://user-images.githubusercontent.com/83295376/222590779-a5a2a44d-049a-4e81-9aec-709a5e7e8459.png" width=115><br><sub>Pedro Henrique Mota</sub>](https://www.linkedin.com/in/pedro-mota-294521232/) | 
+| [<img target="_blank" src="https://user-images.githubusercontent.com/83295376/222590779-a5a2a44d-049a-4e81-9aec-709a5e7e8459.png" width=115><br><sub>Pedro Henrique Mota</sub>](https://www.linkedin.com/in/pedro-mota-294521232/) | 
 | :---: | 
 
 
