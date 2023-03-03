@@ -180,7 +180,7 @@ npm install
 yarn run dev
 ```
 
-## Depois de rodar o projeto, basta acessar o link que ele disponibilizou em seu termminal!!
+## Depois de rodar o projeto, basta acessar o link que ele disponibilizou em seu terminal!!
 
 
 # Autor
