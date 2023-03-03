@@ -3,7 +3,6 @@ import {createGlobalStyle} from 'styled-components'
 
 const globalStyle = createGlobalStyle`
 
-
 /////////////// REUTILIZAVEIS NO CÓDIGO //////////////////////
 .text-transition-slider {
 
@@ -27,10 +26,6 @@ const globalStyle = createGlobalStyle`
   }
 }
 
-
-
-
-
 *{
   margin: 0;
   padding: 0;
@@ -46,8 +41,6 @@ h6,
  {
   font-weight: 700;
 }
-
-
 
 p {
   font-weight: 500;
@@ -96,14 +89,13 @@ body{
   border-radius: 1.75rem;
   color: #f7f7f7;
   background-color: black;
-  cursour: pointer;
+  cursor: pointer;
   text-decoration: none;
   font-weight: 700;
   letter-spacing: 1.5px;
   font-size: 15px;
   transition: all .6s ease;
 }
-
 
 .btn1:hover {
   letter-spacing: 3px;
@@ -134,7 +126,7 @@ body{
   border-radius: 1.75rem;
   color: black;
   background-color: white;
-  cursour: pointer;
+  cursor: pointer;
   text-decoration: none;
   font-weight: 700;
 }
@@ -315,7 +307,7 @@ li{
   transition: .5s;
 }
 
-$form-container a:hover{
+#form-container a:hover{
   color: #63B5FB
 }
 
@@ -373,10 +365,6 @@ $form-container a:hover{
   }
 }
 
-
-
-
-
 // ICONS
 
 .sm-icons{
@@ -386,11 +374,6 @@ $form-container a:hover{
 .sm-icons .nav-link{
   padding-right: 1rem;
 }
-
-
-
-
-
   .bg-primary-color {
     background-color: #fff;
   }
@@ -585,7 +568,6 @@ $form-container a:hover{
     justify-content: center;
   }
 }
-
 
 
 `
