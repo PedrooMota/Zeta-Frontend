@@ -23,7 +23,7 @@
 </p>
 
 # Descrição do Projeto
-Foi construída uma Landing Page (página especifíca para conversão) para um processo seletivo de estágio (Startup Zeta), onde possui uma interface amigável e com um design atrativo para os usuários.
+Foi construído uma Landing Page (página especifíca para conversão) para um processo seletivo de estágio (Startup Zeta), onde possui uma interface amigável e com um design atrativo para os usuários.
 
 A <b>Zeta</b> é uma empresa de Tecnologia e Inovação que desenvolve um sistema embarcado inteligente e inovador, para gestão de operação e manutenção preventiva e preditiva de compressores de ar que funcionará com integração e serviços em nuvem e inteligência artificial.
 
