@@ -114,7 +114,7 @@ A <b>Zeta</b> é uma empresa de Tecnologia e Inovação que desenvolve um sistem
 
 # Acesso ao projeto
 
-### Você pode acessar a página por aqui-> <a target="_blank" href="https://zeta-seletiva-frontend-delta.vercel.app/">Acessar</a>
+### Você pode acessar a página por aqui-> <a target="_blank" href="https://zeta-frontend-b9zrvkqem-pedroomota.vercel.app/">Acessar</a>
 
 
 **O projeto está hospedado na Vercel, plataforma primariamente voltada para sites estáticos e frameworks front-end. Também é a atual responsável pelo Next, que é um <a target="_blank" href="https://opensource.com/article/20/1/react-javascript-frameworks">framework open source React</a>.**
